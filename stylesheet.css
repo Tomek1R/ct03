@@ -21,3 +21,18 @@ body {
 	padding-top: 20px;
 	padding-bottom: 20px
 }
+#line{
+	width:700px;
+	background: #999;
+	height: 1px;
+}
+#links {
+	width:700px;
+	background: #666;
+}
+#navi {
+	width: 700px;
+	background: #666;
+	height: 36px;
+	margin: 0 auto;
+	
