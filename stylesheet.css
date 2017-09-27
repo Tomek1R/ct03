@@ -10,10 +10,10 @@ body {
 #logo {
 	margin:0 auto;
 	width: 700px;
+	text-aligin: center;
 }
 #nazwa {
-  width: 100px;
-  hight:100px;
+  width: 10%;
   background: Url(http://i42.tinypic.com/zya743.jpg);
   text-aligin: center;
 }
