@@ -89,6 +89,9 @@ body {
 	border-radius: 15px;
 	-moz-border-radius: 15px; /*wsparcie dla mozillz*/
 	-webkit-border-radius: 15px; /*wsparcie dla chroma*/
+	box-shadow: 1px 1px 4px #000; /* cień*/
+	-moz-box-shadow: 1px 1px 4px #000;
+	-webkit-box-shadow: 1px 1px 4px #000;
 	
 }
 }
@@ -103,9 +106,7 @@ body {
 	border-radius: 15px;
 	-moz-border-radius: 15px; /*wsparcie dla mozillz*/
 	-webkit-border-radius: 15px; /*wsparcie dla chroma*/
-	box-shadow: 1px 1px 4px #000; /* cień*/
-	-moz-box-shadow: 1px 1px 4px #000;
-	-webkit-box-shadow: 1px 1px 4px #000;
+	
 	
 }
 #content h5 {
