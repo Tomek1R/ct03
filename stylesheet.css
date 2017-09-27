@@ -12,6 +12,7 @@ body {
 	width: 700px;
 }
 #nazwa {
-  width:900px;
+  width:700px;
   background: Url(http://i42.tinypic.com/zya743.jpg);
+  text-aligin: center;
 }
