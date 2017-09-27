@@ -19,7 +19,7 @@ body {
 }
 #nazwa img {
 	padding-top: 20px;
-	padding-bottom: 0px;
+	padding-bottom: 20px;
 }
 #line{
 	width: 700px;
@@ -33,7 +33,7 @@ body {
 #navi {
 	width: 700px;
 	background: #666;
-	height: 36px;
+	height: 42px;
 	margin: 0 auto;
 	text=align: center;
 }
