@@ -28,7 +28,7 @@ body {
 }
 #links {
 	width: 700px;
-	background: #666;
+	background: #000;
 }
 #navi {
 	width: 700px;
@@ -82,7 +82,6 @@ body {
 }
 #content {
 	width: 430px;
-	height: 100%;
 	margin: 0 auto;
 	background: #222;
 	border: 1px solid #000;
