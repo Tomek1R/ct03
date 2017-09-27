@@ -93,6 +93,10 @@ body {
 	-moz-border-radius: 15px; /*wsparcie dla mozillz*/
 	-webkit-border-radius: 15px; /*wsparcie dla chroma*/
 }
+#content h5 {
+	color: #fff;
+	padding: 0,8em 0em 0em 0em;
+}
 
 	
 	
