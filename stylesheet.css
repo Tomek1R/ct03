@@ -35,4 +35,27 @@ body {
 	background: #666;
 	height: 36px;
 	margin: 0 auto;
+}
+#navi ul {
+	list-style-type: none;
+}
+#navi ul li {
+	float: left;
+}
+#navi ul li a {
+	display: block;
+	height: 20px;
+	line-height:20px;
+	background: #000;
+	width: 80px;
+	font-width: bold;
+	font-size: 0,8em;
+	color: #fff;
+	text-align: center;
+	border-radius: 5px
+	text-decoration: none;
+	margin: 7px;
+	border: 1px solid #000;
+}
+	
 	
