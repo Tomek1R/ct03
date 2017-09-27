@@ -51,11 +51,16 @@ body {
 	font-width: bold;
 	font-size: 0,8em;
 	color: #fff;
-	text-align: center;
+	text-align:center;
 	text-decoration: none; 
 	margin: 7px;
-	border-radius: 5px;
+	-moz-border-radius: 5px; /*wsparcie dla mozillz*/
+	-webkit-border-radius: 5px; /*wsparcie dla chroma*/
 	border: 1px solid #000;
+	background: -webkit-gradient(linear,left top, left bottom, form(#666), to(#333)); /*wsparcie dla chroma*/
+	background: -moz-linear-gradient (top, #666, #666);
+	
+	
 }
 	
 	
