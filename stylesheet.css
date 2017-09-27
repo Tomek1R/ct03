@@ -72,6 +72,16 @@ body {
 	color:#f63;
 	cursor: default;
 }
+#about {
+	width: 700px;
+	background: #333;
+}
+#content {
+	width: 430px;
+	margin: 0 auto;
+	background: #222;
+	border: 1px solid #000;
+}
 	
 	
 	
