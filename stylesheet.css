@@ -52,8 +52,8 @@ body {
 	font-size: 0,8em;
 	color: #fff;
 	text-align: center;
+	text-decoration: none; 
 	border-radius: 5px
-	text-decoration: none;
 	margin: 7px;
 	border: 1px solid #000;
 }
