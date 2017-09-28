@@ -32,10 +32,9 @@ body {
 #navi {
 	width:700px;
 	background:#666;
+	text-align:center;
 	height:36px;
 	margin: 0 auto;
-	text-align:center;
-	width:50%;
 }
 #navi ul {
 	list-style-type:none;
