@@ -40,7 +40,8 @@ body {
 	list-style-type: none;
 }
 #navi ul li {
-	float:center;
+	float:left;
+	width:50%;
 }
 #navi ul li a {
 	display:block;
