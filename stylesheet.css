@@ -53,18 +53,14 @@ body {
 	text-decoration:none; 
 	margin:7px;
 	border: 1px solid #000;
-	-moz-border-radius:5px; /*wsparcie dla mozillz*/
-	-webkit-border-radius:5px; /*wsparcie dla chroma*/
 	
 }
 }
 #navi ul li a:hover {
-	background: #000; /* Old browsers */
-
+	background: #000;
 }
 #navi ul li a.current, #navi ul li a.current:hover {
 	background: #333;
-	
 	color:#f63;
 	cursor: default;
 }
@@ -72,8 +68,7 @@ body {
 	width: 700px;
 	background: #333;
 	padding-top: 60px;
-	padding-bottom: 60px;
-	
+	padding-bottom: 60px;	
 }
 #content {
 	width: 430px;
@@ -82,8 +77,6 @@ body {
 	border: 1px solid #000;
 	
 	border-radius: 15px;
-	-moz-border-radius: 15px; /*wsparcie dla mozillz*/
-	-webkit-border-radius: 15px; /*wsparcie dla chroma*/
 	box-shadow: 1px 1px 4px #000; /* cień*/
 	-moz-box-shadow: 1px 1px 4px #000;
 	-webkit-box-shadow: 1px 1px 4px #000;
@@ -98,8 +91,6 @@ body {
 	margin: 1px;
 	
 	border-radius: 5px;
-	-moz-border-radius: 5px; /*wsparcie dla mozillz*/
-	-webkit-border-radius: 5px; /*wsparcie dla chroma*/
 }
 #content h5 {
 	color: #fff;
