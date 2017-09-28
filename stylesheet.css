@@ -45,6 +45,7 @@ body {
 #navi ul li a {
 	display:block;
 	height:20px;
+	line-height:20px;
 	width:80px;
 	font-weight:bold;
 	font-size:12px;
