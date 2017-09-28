@@ -37,11 +37,11 @@ body {
 	text-align:center;
 }
 #navi ul {
-	list-style-type: none;
+	list-style-type:none;
+	width:50%;
 }
 #navi ul li {
 	float:left;
-	width:20%;
 }
 #navi ul li a {
 	display:block;
