@@ -35,10 +35,10 @@ body {
 	height:36px;
 	margin: 0 auto;
 	text-align:center;
+	width:50%;
 }
 #navi ul {
 	list-style-type:none;
-	width:50%;
 }
 #navi ul li {
 	float:left;
