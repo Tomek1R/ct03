@@ -54,6 +54,7 @@ body {
 	text-decoration:none; 
 	margin:7px;
 	border: 1px solid #000;
+	border-radius:5px;
 }
 #navi ul li a:hover {
 	background:#000;
