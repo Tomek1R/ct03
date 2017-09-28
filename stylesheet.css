@@ -1,4 +1,5 @@
 @meta charset="UTF-8"
+	
 body {
   font-famliy: Verdana, geneva, sans-serif;
   background-color: black;
@@ -19,12 +20,12 @@ body {
 }
 #line{
 	width: 700px;
-	background: #999;
+	background: #999999;
 	height: 1px;
 }
 #links {
 	width: 700px;
-	background: #000;
+	background: #000000;
 }
 #navi {
 	width: 700px;
@@ -51,11 +52,11 @@ body {
 	text-align: center;
 	text-decoration: none; 
 	margin: 7px;
-	border: 1px solid #000;
+	border: 1px solid #000000;
 	-moz-border-radius: 5px; /*wsparcie dla mozillz*/
 	-webkit-border-radius: 5px; /*wsparcie dla chroma*/
 	background: -webkit-gradient (linear,left top, left bottom, form(#666), to(#333)); /*wsparcie dla chroma*/
-	background: -moz-linear-gradient (top, #666, #333); /*wsparcie dla mozilla*/
+	background: -moz-linear-gradient (top, #666666, #333333); /*wsparcie dla mozilla*/
 }
 #navi ul li a:hover {
 	background: #333;
