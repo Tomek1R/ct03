@@ -35,7 +35,7 @@ body {
 	background: #666;
 	height: 36px;
 	margin: 0 auto;
-	text=align: center;
+	text-align:center;
 }
 #navi ul {
 	list-style-type: none;
