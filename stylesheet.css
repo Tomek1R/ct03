@@ -55,19 +55,16 @@ body {
 	border: 1px solid #000;
 	-moz-border-radius:5px; /*wsparcie dla mozillz*/
 	-webkit-border-radius:5px; /*wsparcie dla chroma*/
-	background: -moz-linear-gradient(top, #666, #333);
-background: -webkit-linear-gradient(linear, left top, left bottom, from(#666), to(#333));
+	
 }
 }
 #navi ul li a:hover {
-	background: #1e5799; /* Old browsers */
-background: -moz-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+	background: #000; /* Old browsers */
+
 }
 #navi ul li a.current, #navi ul li a.current:hover {
 	background: #333;
-	background: -webkit-gradient(linear,left top, left bottom, form(#000), to(#666)); /*wsparcie dla chroma*/
-	background: -moz-linear-gradient(top, #000, #666);
+	
 	color:#f63;
 	cursor: default;
 }
@@ -83,8 +80,7 @@ background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db
 	margin: 0 auto;
 	background: #222;
 	border: 1px solid #000;
-	background: -webkit-gradient(linear,left top, left bottom, form(#666), to(#222), color-stop(0,5 #333)); /*wsparcie dla chroma*/
-	background: -moz-linear-gradient(top, #666, #333, #222);
+	
 	border-radius: 15px;
 	-moz-border-radius: 15px; /*wsparcie dla mozillz*/
 	-webkit-border-radius: 15px; /*wsparcie dla chroma*/
@@ -100,8 +96,7 @@ background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db
 	background: #333;
 	padding: 16px;
 	margin: 1px;
-	background: -webkit-gradient(linear,left top, left bottom, form(#000), to(#333)); /*wsparcie dla chroma*/
-	background: -moz-linear-gradient(top, #000, #333);
+	
 	border-radius: 5px;
 	-moz-border-radius: 5px; /*wsparcie dla mozillz*/
 	-webkit-border-radius: 5px; /*wsparcie dla chroma*/
