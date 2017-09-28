@@ -75,6 +75,7 @@ body {
 	margin: 0 auto;
 	background:#222;
 	border: 1px solid #000;
+	padding:10px;
 	
 	border-radius:15px;
 	box-shadow: 1px 1px 4px #000; /* cień*/
