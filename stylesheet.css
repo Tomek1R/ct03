@@ -53,7 +53,6 @@ body {
 	text-decoration:none; 
 	margin:7px;
 	border: 1px solid #000;
-	}
 }
 #navi ul li a:hover {
 	background:#000;
@@ -77,7 +76,6 @@ body {
 	
 	border-radius:15px;
 	box-shadow: 1px 1px 4px #000; /* cień*/
-}
 }
 #content img {
 	float:left;
