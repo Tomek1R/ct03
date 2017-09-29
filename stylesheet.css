@@ -40,13 +40,13 @@ body {
 }
 #navi ul {
 	list-style-type:none;
-	
+	display:inline-block;
 }
 #navi ul li {
 	float:left;
 }
 #navi ul li a {
-	display:inline-block;
+	display:block;
 	height:20px;
 	line-height:20px;
 	width:80px;
