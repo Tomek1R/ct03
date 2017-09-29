@@ -66,6 +66,8 @@ body {
 	background:#333;
 	color:#f63;
 	cursor:default;
+	/*gradient*/
+	background: -moz-linear-gradient(top, black, silver);
 }
 #about {
 	width:700px;
