@@ -94,7 +94,7 @@ body {
 	border: 1px solid #000;
 	background:#333;
 	padding:16px;
-	margin:1px;
+	margin:10px;
 	/*gradient*/
 	background: -moz-linear-gradient(top, #000000, #333333);
 	background: -webkit-linear-gradient(top, #000000, #333333);
