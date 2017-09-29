@@ -61,6 +61,7 @@ body {
 }
 #navi ul li a:hover {
 	background:#000;
+	background: -moz-linear-gradient(top, black, silver);
 }
 #navi ul li a.current, #navi ul li a.current:hover {
 	background:#333;
@@ -91,7 +92,8 @@ body {
 	background:#333;
 	padding:16px;
 	margin:1px;
-	
+	/*gradient*/
+	background: -moz-linear-gradient(top, black, grey);
 	border-radius:5px;
 }
 #content h5 {
