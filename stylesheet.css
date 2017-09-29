@@ -19,6 +19,8 @@ body {
 #nazwa img {
 	padding-top:20px;
 	padding-bottom:20px;
+	width:100px;
+	height:75px;
 }
 #line{
 	width:700px;
