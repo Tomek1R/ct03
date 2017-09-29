@@ -70,7 +70,7 @@ body {
 	cursor:default;
 	/*gradient*/
 	background: -moz-linear-gradient(top, black, silver);
-	background: -webkit-linear-gradient(top, black, silveer);
+	background: -webkit-linear-gradient(top, black, silver);
 }
 #about {
 	width:700px;
@@ -96,8 +96,8 @@ body {
 	padding:16px;
 	margin:1px;
 	/*gradient*/
-	background: -moz-linear-gradient(top, black, #333333);
-	background: -webkit-linear-gradient(top, #666666, #333333);
+	background: -moz-linear-gradient(top, #000000, #333333);
+	background: -webkit-linear-gradient(top, #000000, #333333);
 	border-radius:5px;
 }
 #content h5 {
