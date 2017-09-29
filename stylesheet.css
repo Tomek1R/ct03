@@ -44,10 +44,9 @@ body {
 }
 #navi ul li {
 	float:left;
-	display:inline-block;
 }
 #navi ul li a {
-	display:block;
+	display:inline-block;
 	height:20px;
 	line-height:20px;
 	width:80px;
