@@ -40,9 +40,11 @@ body {
 }
 #navi ul {
 	list-style-type:none;
+	
 }
 #navi ul li {
 	float:left;
+	display:inline-block;
 }
 #navi ul li a {
 	display:block;
